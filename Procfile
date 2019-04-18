@@ -1,1 +1,3 @@
-web: python my_bot.py
+web: python config.py 
+
+web: python bot.py
